@@ -1,0 +1,23 @@
+name: Monocleproject
+favicon: null
+layout_spectrum: 0.4859783621504903
+typography_spectrum: 0.5884723144117743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5470779000315815
+  lightness: 0.19627571222372353
+  saturation: 0.10611134627833962
+  rhythmicContrast: 0.8563974383287132
+purpose: []
