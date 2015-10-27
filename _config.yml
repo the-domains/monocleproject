@@ -1,24 +1,41 @@
-name: Monocleproject
-favicon: null
-layout_spectrum: 0.50843
-typography_spectrum: 0.5884723144117743
 title: Husband and Wife Photography Team
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#65301E'
+    - '#A3A288'
+    - '#FFF2CF'
+    - '#166590'
+    - '#4291DE'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Monocleproject
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.5
-  lightness: 0.19627571222372353
-  saturation: 0.10611134627833962
-  rhythmicContrast: 0.8563974383287132
-purpose: []
+typography_spectrum: 0.2046187
+layout_spectrum: 0.8039742
