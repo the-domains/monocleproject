@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Husband and Wife Photography Team]]></title>
+        <description><![CDATA[Husband and Wife Photography Team]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 07:31:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c70c6b5-4650-4881-abde-97f9238c9022.jpg">]]></description>
+            <link>undefined8d575c0d-d4b7-4eed-988c-b5012b709894/index.html</link>
+            <guid isPermaLink="false">8d575c0d-d4b7-4eed-988c-b5012b709894</guid>
+            <pubDate>Fri, 04 Mar 2016 07:29:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
