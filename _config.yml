@@ -1,7 +1,7 @@
 name: Monocleproject
 favicon: null
-layout_spectrum: 0.64228
-typography_spectrum: 0.84705
+layout_spectrum: 1
+typography_spectrum: 0.56633
 title: Husband and Wife Photography Team
 collections:
   - index:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.5
   lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
